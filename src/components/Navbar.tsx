@@ -3,7 +3,7 @@ import navLogo from "../assets/logo-text.png";
 
 const Navbar = () => {
   return (
-    <div className="border-b border-gray-200">
+    <div className="sticky top-0 z-50 border-b border-gray-200">
       <nav className="flex items-center justify-between container mx-auto p-5">
         <GiHamburgerMenu className="md:hidden" size={25} />
         <img className="w-52" src={navLogo} alt="" />
