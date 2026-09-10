@@ -2,7 +2,7 @@ import bannerImg from "../assets/banner-stack.png";
 
 const Banner = () => {
   return (
-    <div className="flex items-center justify-between container mx-auto my-24">
+    <div className="flex items-center justify-between container mx-auto">
       <div className="space-y-8">
         <h1 className="text-7xl font-semibold font-['Inter']">
           Build Your Ideal <br />{" "}
