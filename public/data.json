@@ -14,7 +14,7 @@
     "name": "Vue.js",
     "category": "Frontend",
     "description": "An approachable, performant, and versatile framework for building web user interfaces.",
-    "icon": "https://w7.pngwing.com/pngs/253/990/png-transparent-vuejs-vuejs-logo-company-logo-logo-programming-langugae-coding-language-3d-icon-thumbnail.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlecIz_8Mho414cayJDHFKIsDww4MRYWjZYt0q3-QwrH4xcQeNjk5k7Sd&s=10",
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
     "badge": "Versatile"
@@ -24,7 +24,7 @@
     "name": "Svelte",
     "category": "Frontend",
     "description": "A modern framework that compiles components into highly optimized JavaScript.",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQ22hKIF-dXyX7qKOX9kRGx6dxjHBQ-8IH1i2uC69edYE3QZokkoR_sk&s=10",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9EyB9-duZk0ubMvjWLnKrPA9fqrblGw3sloXU5p5ICA&s",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Fast"
@@ -64,7 +64,7 @@
     "name": "Redis",
     "category": "Database",
     "description": "An in-memory data store commonly used for caching, sessions, and real-time applications.",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmGQj0oTEBFq-qZLu2SwQJtL9tDx2De124dEd9dM9AO6iX8c9gFApMxvkj&s=10",
+    "icon": "https://images.seeklogo.com/logo-png/27/1/redis-logo-png_seeklogo-273850.png",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Cache"
