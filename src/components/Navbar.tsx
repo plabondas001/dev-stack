@@ -9,11 +9,25 @@ const Navbar = () => {
         <img className="w-52" src={navLogo} alt="" />
 
         <ul className="hidden md:flex items-center gap-10">
-          <li className="font-semibold text-xl text-[#DB2777]">Home</li>
-          <li className="font-semibold text-xl">Technologies</li>
-          <li className="font-semibold text-xl">Projects</li>
-          <li className="font-semibold text-xl">About</li>
-          <li className="font-semibold text-xl">Contact</li>
+          <li className="font-semibold text-xl text-[#DB2777]">
+            <a href="/">Home</a>
+          </li>
+
+          <li className="font-semibold text-xl">
+            <a href="/technologies">Technologies</a>
+          </li>
+
+          <li className="font-semibold text-xl">
+            <a href="/projects">Projects</a>
+          </li>
+
+          <li className="font-semibold text-xl">
+            <a href="/about">About</a>
+          </li>
+
+          <li className="font-semibold text-xl">
+            <a href="/contact">Contact</a>
+          </li>
         </ul>
 
         <div className="flex items-center gap-5">
