@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import TechData from "./components/techData.tsx/TechData";
 import Technologies from "./components/Technologies";
 import { ToastContainer } from "react-toastify";
+import Footer from "./components/Footer";
 
 // fetch technologies data
 const technologiesPromise = async () => {
@@ -32,6 +33,10 @@ function App() {
       >
         <TechData techDatas={techDatas} />
       </Suspense>
+
+
+      {/* Footer */}
+      <Footer/>
 
       <ToastContainer
         position="top-right"
