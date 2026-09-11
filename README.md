@@ -87,9 +87,7 @@ DevStack/
 ├── public/
 ├── src/
 │   ├── components/
-│   ├── pages/
-│   ├── types/
-│   ├── data/
+│   ├── dataType/
 │   ├── App.tsx
 │   └── main.tsx
 ├── package.json
